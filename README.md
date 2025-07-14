@@ -82,9 +82,7 @@ Flutter + GPTベースの軽量アプリとして、ネットが不安定な環�
 **吉岡有隆（Yutaka Yoshioka）** によって創作されたものです。  
 許可なくビジュアルやコンセプトを改変・再配布することはご遠慮ください。
 
-
-https://doi.org/10.5281/zenodo.15878651
-
+[![DOI](https://zenodo.org/badge/1019444188.svg)](https://doi.org/10.5281/zenodo.15878651)
 
 > Sprout is not just an app—it's a co-creative zone where your smallest seed of potential is allowed to grow gently, without fear.
 
