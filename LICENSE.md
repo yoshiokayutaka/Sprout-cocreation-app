@@ -58,61 +58,76 @@ Sproutの概念・資料・翻訳・共有する際は、必ず以下の著作�
 
 # Sprout Custom License  
 Version 1.0 — Established on July 14, 2025  
-© 2025 Yutaka Yoshioka
+© 2025 Yutaka Yoshioka (吉岡有隆)
 
 The project "Sprout" and all related materials are protected under this custom license.
 
-## 1. Protected Elements
+---
+
+## 1. Scope of Protection
 
 The following elements are protected by copyright:
 
-- Design philosophy and overall conceptual structure  
-- Name, branding, logo, UI/UX design, and other visual elements  
-- All written content including documents, descriptions, and user-facing texts  
-- The project's purpose (co-creation, self-support, and inclusive support systems)
+- The overall conceptual design and system structure  
+- The project name, branding, logo, and visual elements including UI/UX  
+- All written content including descriptions, documents, and user-facing text  
+- The project’s purpose: co-creation, empowerment, and inclusive support systems
 
-All copyrights are held by **Yutaka Yoshioka**.
-
-## 2. Permitted Uses
-
-The following uses are permitted under this license:
-
-- Viewing and sharing publicly available design documents  
-- Translating the content with proper attribution
-
-## 3. Prohibited Uses
-
-The following actions are strictly prohibited:
-
-- Using the concept or materials for **commercial or non-commercial purposes** without explicit permission  
-- Applying the content for **military, violent, surveillance-related, or exploitative purposes**  
-- Removing, falsifying, or altering the copyright notice  
-- Selling or licensing derivative works based on this project without permission
-
-## 4. Attribution Requirement
-
-When using, sharing, publishing, or translating any concepts, documents, or derivative works of Sprout,  
-you must include the following attribution statement:
-
-
-A link to the original repository or official documentation is also encouraged.
-
-## 5. Relationship with F.U.K.U and KindureOS
-
-This license follows the ethical principles of the **F.U.K.U Concept** (Structuring Kindness),  
-and is aligned with the **KindureOS License**, which prioritizes peaceful, regenerative, and inclusive system design.
-
-## 6. Disclaimer
-
-This license does not grant automatic permission to use the name "Sprout" or its logo as a trademark.  
-Uses that may cause confusion with the official project or give a false impression of endorsement are strictly prohibited.
-
-Use of this license is at your own risk. The copyright holder assumes no responsibility  
-for any damages resulting from use or misuse.
+All copyrights are held exclusively by **Yutaka Yoshioka (吉岡有隆)**.
 
 ---
 
-For questions or requests for special permission, please contact the copyright holder:  
-**Yutaka Yoshioka** — [@yoshiokayutaka_]
+## 2. Permitted Uses
+
+The following uses are allowed under this license:
+
+- Viewing and sharing publicly available design documents  
+- Translating the materials, **provided proper credit is clearly displayed**
+
+**Modification of any kind is strictly prohibited under all circumstances.**
+
+---
+
+## 3. Prohibited Actions
+
+The following actions are strictly prohibited:
+
+- Using any part of this project for **commercial or non-commercial purposes** without explicit permission  
+- Applying the materials to **military, violent, surveillance, or exploitative purposes**  
+- Removing, falsifying, or altering the author’s name or copyright attribution  
+- Selling, licensing, or distributing derivative works based on this project without permission  
+- **Any form of modification, editing, or adaptation**
+
+---
+
+## 4. Attribution Requirement
+
+When sharing, translating, or referencing the concept or materials of Sprout, the following copyright notice must be included:
+
+> © 2025 Yutaka Yoshioka (吉岡有隆)  
+> Unauthorized reproduction, modification, or distribution is strictly prohibited.
+
+Whenever possible, please include a link to the original repository or official documentation.
+
+---
+
+## 5. Relation to F.U.K.U. Framework and KindureOS
+
+This license adheres to the ethical principles of the **F.U.K.U. Framework** (Designing Structures of Kindness),  
+and aligns with the **KindureOS License**, which prioritizes peaceful, regenerative, and inclusive system design.
+
+---
+
+## 6. Disclaimer
+
+This license does **not** grant automatic permission to use the project name "Sprout" or its logo.  
+Any usage that may cause confusion with the official project, or mislead users, is strictly prohibited.
+
+Use of this license is at your own risk. The author assumes no responsibility for any damage caused by use or misuse.
+
+---
+
+For inquiries or special permissions, please contact the copyright holder:  
+**Yutaka Yoshioka (吉岡有隆)** — [@yoshiokayutaka_]
 
 ---
